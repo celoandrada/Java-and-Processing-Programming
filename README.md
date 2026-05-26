@@ -1,8 +1,8 @@
-# Java Programming
+# Java and Processing Programming
 
-This repository contains Java programming projects developed through coursework focused on software development fundamentals, problem solving, and object-oriented programming.
+This repository contains programming coursework and software development projects focused on Java programming, Processing development, algorithms, problem solving, object-oriented programming fundamentals, and interactive application design.
 
-Projects demonstrate programming concepts including variables, loops, methods, algorithms, procedural decomposition, user interaction, and application development.
+Projects demonstrate programming concepts including variables, loops, conditionals, methods, procedural decomposition, debugging, control flow, user interaction, randomization, and software development principles.
 
 ---
 
@@ -14,38 +14,55 @@ Concepts practiced:
 
 - Variables and data types
 - Expressions and operators
-- Console input/output
+- Loops and conditionals
 - Methods
-- Loops
-- Conditionals
-- Scope and variables
+- Control flow
+- Console input and output
+- Debugging
 - Program structure
+- Procedural decomposition
 
 ---
 
-### Software Development Concepts
+### Programming Logic and Algorithms
 
 Concepts practiced:
 
-- Procedural decomposition
-- Debugging
-- Algorithm development
-- Control flow
 - Problem solving
-- Pseudocode
-- Iterative enhancement
+- Algorithm development
+- Logic implementation
+- Program organization
+- User interaction systems
+- Input validation
+- Randomization
+- Software design principles
 
 ---
 
-### Programming Projects
+### Processing Development
+
+Concepts practiced:
+
+- Interactive programming
+- Visual programming concepts
+- Event handling
+- Variables and animation
+- Drawing functions
+- Mouse and keyboard interaction
+- Dynamic graphical systems
+
+---
+
+### Software Development Projects
 
 Projects include:
 
-- Interactive console applications
-- Logic development
-- User input systems
-- Mathematical operations
-- Control flow implementation
+- Interactive applications
+- Calculator implementation
+- Word processing logic
+- Console programming projects
+- Programming assignments
+- Game development
 
 ---
 
@@ -53,23 +70,26 @@ Projects include:
 
 Blackjack game simulation featuring:
 
-- Betting system
-- Card randomization
-- Balance tracking
-- Game logic implementation
-- Player and dealer turns
+- Betting system implementation
+- Random card generation
+- Balance management
+- Dealer and player logic
 - Win/loss determination
+- Interactive gameplay systems
 
 ---
 
 ## Repository Structure
 
 ```text
-Java-Programming/
+Java-and-Processing-Programming/
 
 01_Java_Fundamentals/
+
 02_Control_Flow_and_Logic/
-03_Programming_Projects/
+
+03_Processing_Programming_Projects/
+
 04_Final_Project_Blackjack_Game/
 ```
 
@@ -78,15 +98,18 @@ Java-Programming/
 ## Skills Developed
 
 - Java
+- Processing
 - Object-oriented programming
 - Algorithms
 - Problem solving
 - Debugging
 - Software development
-- Console applications
-- Control flow
-- Procedural decomposition
+- Interactive programming
+- Program design
+- Logic development
 
-Course: COMP 170 – Introduction to Programming
+Coursework:
+
+COMP 170 – Introduction to Programming
 
 Loyola University Chicago
