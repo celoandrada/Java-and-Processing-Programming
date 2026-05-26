@@ -93,6 +93,6 @@ Topics:
 
 Course:
 
-COMP 170 – Introduction to Programming
+COMP 125 - Visual Information Processing
 
 Loyola University Chicago
