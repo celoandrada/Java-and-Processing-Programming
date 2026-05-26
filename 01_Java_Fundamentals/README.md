@@ -94,6 +94,6 @@ Topics:
 
 Course:
 
-COMP 170 – Introduction to Programming
+COMP 170 – Introduction to Object-Oriented Programming
 
 Loyola University Chicago
